@@ -1,0 +1,29 @@
+<PreferenceScreen android:enabled="true" xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/category_ad_title">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hide_comic_list_ad"
+            android:title="@string/hide_comic_list_ad" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hide_comic_page_ad"
+            android:title="@string/hide_comic_page_ad" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hide_banner_ad"
+            android:title="@string/hide_banner_ad" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hide_popup_ad"
+            android:title="@string/hide_popup_ad" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/category_interface_title">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="hide_home_banners"
+            android:title="@string/hide_home_banners" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
+

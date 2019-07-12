@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PurePic</string>
+    <string name="model_active">模块已激活</string>
+    <string name="model_disactive">模块未激活</string>
+    <string name="app_desc">去除Pic动漫的大部分广告</string>
+    <string name="category_ad_title">广告元素</string>
+    <string name="category_interface_title">界面元素</string>
+    <string name="hide_popup_ad">隐藏进软件弹出广告界面</string>
+    <string name="hide_banner_ad">隐藏漫画细节下方广告</string>
+    <string name="hide_comic_page_ad">隐藏漫画界面广告</string>
+    <string name="hide_comic_list_ad">隐藏漫画列表广告</string>
+    <string name="hide_home_banners">隐藏主页面上方滑动广告栏</string>
+</resources>
